@@ -12,4 +12,4 @@
 
 - ชื่อ-สกุล:พบพฤทธิ์ กุงวงศ์
 - รหัสนักศึกษา:680610697
-- <strong>GITHUB PAGE URL : </strong>
+- <strong>GITHUB PAGE URL : </strong>https://cpe207-2569.github.io/lab03-Pobphutkungwong/
